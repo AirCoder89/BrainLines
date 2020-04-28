@@ -3,7 +3,7 @@
 Test your logical thinking & the flexibility of ur mind draw lines & hit targets.
 
 
-### Create by Adobe Flash & ActionScript 3.0 & Box2D
+### Created by Adobe Flash & ActionScript 3.0 & Box2D
 
 **Description:**
 Brain Lines is an amazing brain training game that everyone will be able to enjoy!
